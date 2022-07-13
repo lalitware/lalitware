@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalitware
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, and PHP. 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, PHP, and Drupal. 
 - 💞️ I’m looking to collaborate on above-mentioned technologies.
 - 📫 How to reach me www.linkedin.com/in/contactlalit
 
